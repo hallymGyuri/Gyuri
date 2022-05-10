@@ -45,6 +45,8 @@ class Rc:
         gpio.output(self.IN4,gpio.LOW)
         PWM_ENA.ChangeDutyCycle(speed_)
         PWM_ENB.ChangeDutyCycle(speed_)
+        PWM_ENA.ChangeDutyCycle(250)
+        PWM_ENB.ChangeDutyCycle(250)
     def backward_(self,speed_):
         global PWM_ENA
         global PWM_ENB
@@ -54,6 +56,8 @@ class Rc:
         gpio.output(self.IN4,gpio.HIGH)
         PWM_ENA.ChangeDutyCycle(speed_)
         PWM_ENB.ChangeDutyCycle(speed_)
+        PWM_ENA.ChangeDutyCycle(250)
+        PWM_ENB.ChangeDutyCycle(250)
     def right_(self,speed_):
         global PWM_ENA
         global PWM_ENB

@@ -33,9 +33,14 @@
 # 구현 영상
 
 # 개발환경
- ..
+ + Raspberry Pi 4B 
+ + App Inventor2 for Android
+ + Python
 # 디렉토리 구조
-
+rc카		 	rc카 소스코드 디렉토리
+app		   어플 소스코드 디렉토리
+minutes				회의록 관리 디렉토리
+img 				기타 사진 디렉토리
 # 회의록
 
 

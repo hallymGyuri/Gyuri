@@ -30,3 +30,12 @@
 
 ![그림2](https://user-images.githubusercontent.com/101513917/169761883-7335f4c1-c5f9-4d21-ab58-4f40a5d10e16.png) 
 
+# 구현 영상
+
+# 개발환경
+ ..
+# 디렉토리 구조
+
+# 회의록
+
+

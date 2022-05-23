@@ -21,4 +21,4 @@
 
 ---
 # 구성도
-![image](https://user-images.githubusercontent.com/101513917/169761352-0e13514f-4c8e-43c4-89f9-c71ddf8f5c86.png)
+<img src="그림1.png" width="200" height="200"/>

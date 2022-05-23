@@ -21,4 +21,8 @@
 
 ---
 # 구성도
-<img src="그림1.png" width="200" height="200"/>
+
+<img width="288" alt="그림1" src="https://user-images.githubusercontent.com/101513917/169761845-5c05806a-997d-439d-a583-13391f200a2b.png"> <img width="173" alt="앱인벤터디자인" src="https://user-images.githubusercontent.com/101513917/169762017-f69abffe-cb58-4d1f-a239-cddf25fa03cd.png">
+
+![그림2](https://user-images.githubusercontent.com/101513917/169761883-7335f4c1-c5f9-4d21-ab58-4f40a5d10e16.png) 
+

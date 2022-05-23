@@ -19,3 +19,6 @@
       - 반려동물과 사람간의 교류 증대
       - 반려동물과 놀아주는 시간과 에너지 절약
 
+---
+# 구성도
+![image](https://user-images.githubusercontent.com/101513917/169761352-0e13514f-4c8e-43c4-89f9-c71ddf8f5c86.png)

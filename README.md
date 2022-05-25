@@ -32,6 +32,23 @@
 
 # 구현 영상
 
+
+
+https://user-images.githubusercontent.com/101513917/170220910-77b691cf-5568-44e2-8b59-8184b3b1bf34.mp4
+
+
+
+https://user-images.githubusercontent.com/101513917/170220939-1b3734ad-5f8c-4027-8926-557a8daa4236.mp4
+
+
+
+https://user-images.githubusercontent.com/101513917/170220953-970180d1-2e2c-4799-ae26-3c06dec0bda3.mp4
+
+
+
+
+
+
 # 개발환경
  + Raspberry Pi 4B 
  + App Inventor2 for Android

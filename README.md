@@ -64,7 +64,7 @@ https://user-images.githubusercontent.com/101513917/170220953-970180d1-2e2c-4799
 # 디렉토리 구조
 |제목|내용|
 |------|------|
-|Rc카|Rc카 소스코드 디렉토리|
+|Rc car|Rc car 소스코드 디렉토리|
 |app|어플 소스코드 디렉토리|
 |minutes|회의록 관리 디렉토리|
 |img|기타 사진 디렉토리|

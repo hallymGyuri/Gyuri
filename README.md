@@ -70,3 +70,7 @@ https://user-images.githubusercontent.com/101513917/170220953-970180d1-2e2c-4799
 |minutes|회의록 관리 디렉토리|
 |img|기타 사진 디렉토리|
 
+# 포스터
+[22년 1학기 캡스톤-포스터-Gyuri(박종혁).pptx](https://github.com/hallymGyuri/Gyuri/files/8783846/22.1.-.-Gyuri.pptx)
+
+[22년 1학기 캡스톤-포스터-Gyuri(박종혁).pdf](https://github.com/hallymGyuri/Gyuri/files/8783850/22.1.-.-Gyuri.pdf)
